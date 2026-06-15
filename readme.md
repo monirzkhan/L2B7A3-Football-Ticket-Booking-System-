@@ -4,7 +4,7 @@
 
 ### 📌 Project Overview
 
-The Football Ticket Booking System is a relational database project designed to manage football matches, ticket bookings, customers, and booking transactions efficiently.
+The Football Ticket Booking System is a relational database project designed to manage football matches, ticket bookings, users, and booking transactions efficiently.
 
 The system allows users to:
 
@@ -145,3 +145,5 @@ Through this assignment I learned:
 Assignment 03 – Football Ticket Booking System
 
 PostgreSQL Database Project
+
+Submission Date: 15 June 2026
