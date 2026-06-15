@@ -1,6 +1,6 @@
 create database Football_Ticket_Booking_System;
   
-CREATE TABLE userssers (
+CREATE TABLE users (
   user_id serial primary key,
   full_name varchar(50) not null,
   email varchar(50) unique not null,
